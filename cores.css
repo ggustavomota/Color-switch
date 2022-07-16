@@ -1,0 +1,174 @@
+
+#blue{
+    background-color: #006eff;
+    box-sizing: border-box;
+    border: transparent;
+    display: grid;
+    padding-top: 20px;
+    font-family: Graphik;
+    width: 700px;
+    letter-spacing: 2px;;
+    justify-content: center;
+    align-content: center;
+    margin-left: 390px;
+    margin-top: 0px;
+    text-align: center;
+    grid-template-columns: repeat(2, 50px);
+    grid-template-rows: repeat(4, 10px);
+    cursor: pointer;
+    color: white;
+
+}
+
+#yellow{
+    background-color: #ffe600;
+    box-sizing: border-box;
+    border: transparent;
+    display: grid;
+    padding-top: 20px;
+    font-family: Graphik;
+    width: 700px;
+    letter-spacing: 2px;;
+    justify-content: center;
+    align-content: center;
+    margin-left: 390px;
+    text-align: center;
+    grid-template-columns: repeat(2, 50px);
+    grid-template-rows: repeat(4, 10px);
+    cursor: pointer;
+    color: white;
+
+}
+
+#red{
+    background-color: #d60000;
+    box-sizing: border-box;
+    border: transparent;
+    display: grid;
+    padding-top: 20px;
+    font-family: Graphik;
+    width: 700px;
+    letter-spacing: 2px;
+    margin-top: 40px;
+    justify-content: center;
+    align-content: center;
+    margin-left: 390px;
+    text-align: center;
+    grid-template-columns: repeat(2, 50px);
+    grid-template-rows: repeat(4, 10px);
+    cursor: pointer;
+    color: white;
+
+}
+
+#orange{
+    background-color: #ff5100;
+    box-sizing: border-box;
+    border: transparent;
+    display: grid;
+    padding-top: 20px;
+    font-family: Graphik;
+    width: 700px;
+    letter-spacing: 2px;;
+    justify-content: center;
+    align-content: center;
+    margin-left: 390px;
+    text-align: center;
+    grid-template-columns: repeat(2, 50px);
+    grid-template-rows: repeat(4, 10px);
+    cursor: pointer;
+    color: white;
+
+}
+
+#pink{
+    background-color: #ff288c;
+    box-sizing: border-box;
+    border: transparent;
+    display: grid;
+    padding-top: 20px;
+    font-family: Graphik;
+    width: 700px;
+    letter-spacing: 2px;;
+    justify-content: center;
+    align-content: center;
+    margin-left: 390px;
+    text-align: center;
+    grid-template-columns: repeat(2, 50px);
+    grid-template-rows: repeat(4, 10px);
+    cursor: pointer;
+    color: white;
+
+}
+
+#purple{
+    background-color: #7d02c4;
+    box-sizing: border-box;
+    border: transparent;
+    display: grid;
+    padding-top: 20px;
+    font-family: Graphik;
+    width: 700px;
+    letter-spacing: 2px;;
+    justify-content: center;
+    align-content: center;
+    margin-left: 390px;
+    text-align: center;
+    grid-template-columns: repeat(2, 50px);
+    grid-template-rows: repeat(4, 10px);
+    cursor: pointer;
+    color: white;
+
+}
+
+#green{
+    background-color: #00d612;
+    box-sizing: border-box;
+    border: transparent;
+    display: grid;
+    padding-top: 20px;
+    font-family: Graphik;
+    width: 700px;
+    letter-spacing: 2px;;
+    justify-content: center;
+    align-content: center;
+    margin-left: 390px;
+    text-align: center;
+    grid-template-columns: repeat(2, 50px);
+    grid-template-rows: repeat(4, 10px);
+    cursor: pointer;
+    color: white;
+
+}
+
+#limparcor{
+    width: 100px;
+    height: 50px;
+    cursor: pointer;
+    border-radius: 5px;
+    border: solid 2px gray;
+    letter-spacing: 1px;
+    background-color: transparent;
+    color: gray;
+    font-family: Graphik Light;
+    margin-left: 30px;
+    margin-top: 35px;
+
+}
+
+#textprinc2{
+    font-family: Graphik Light;
+    color: gray;
+    font-size: 16px;
+    letter-spacing: 2px;
+    margin-left: 80px;
+    margin-top: -15px;
+}
+
+#textprinc1{
+    font-family: Graphik;
+    color: gray;
+    margin-left: 80px;
+    margin-top: 50px;
+    font-size: 38px;
+}
